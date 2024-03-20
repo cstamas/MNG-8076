@@ -1,3 +1,4 @@
+<!-- This settings does bad thing: makes "something" come before "central" -->
 <settings>
   <localRepository>${user.dir}/local-repo</localRepository>
   <profiles>

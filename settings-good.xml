@@ -1,3 +1,4 @@
+<!-- This settings does not do bad thing: just defines local repo to same place where bad does -->
 <settings>
   <localRepository>${user.dir}/local-repo</localRepository>
 </settings>

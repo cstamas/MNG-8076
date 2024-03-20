@@ -1,0 +1,4 @@
+<settings>
+  <localRepository>${user.dir}/local-repo</localRepository>
+</settings>
+

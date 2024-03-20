@@ -37,3 +37,17 @@ junit-4.13.2.jar>something=
 junit-4.13.2.pom>central=
 junit-4.13.2.pom>something=
 ```
+
+# Env
+
+Am using this:
+
+```
+[cstamas@blondie MNG-8076 (main)]$ mvn -v
+Apache Maven 3.9.6 (bc0240f3c744dd6b6ec2920b3cd08dcc295161ae)
+Maven home: /home/cstamas/.sdkman/candidates/maven/current
+Java version: 21.0.2, vendor: Eclipse Adoptium, runtime: /home/cstamas/.sdkman/candidates/java/21.0.2-tem
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "6.7.9-200.fc39.x86_64", arch: "amd64", family: "unix"
+[cstamas@blondie MNG-8076 (main)]$ 
+```
